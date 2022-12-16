@@ -19,7 +19,7 @@
   
   $ git diff README.md
   
-  $ git add README.md
+  $ git add README.md      (staged .... ready for commit)
   
   $ git diff README.md
   
