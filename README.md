@@ -46,6 +46,21 @@
   
   fatal:  Authentication failed for 'https://github.com/test-repository.git'
 
+  #### Solution
+  Support for password authentication was removed on August 13, 2021
+  
+  In order to fix the issue follwo below steps:
+  
+  1. Goto settings of Github account
+  2. Find and Select Developer Settings
+  3. Find and Select Personal access tokens
+  4. Generate a new token
+  5. Fill in any note and select the access scopes
+  6. Once done click generate token
+  7. Use the generated token in place of a password to communicate with GitHub.
+
+
+  
   
   #### possible success message after git push origin master
   Enumerating objects: 5, done.
