@@ -23,7 +23,10 @@
   
   $ git commit -m "updated the readme file" 
   
+  $ git log --oneline       (to check 
   
+  (HEAD -> main) Updated readme file : local computer is at this commit.
+  (origin/main, origin/HEAD) Initial commit : remote (github) is at this commit.
   
   
   
