@@ -21,6 +21,8 @@
   
   $ git add README.md
   
+  $ git diff README.md
+  
   
   
   
