@@ -43,8 +43,27 @@
  
   remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on 
           currently recommended modes of authentication.
+  
   fatal:  Authentication failed for 'https://github.com/test-repository.git'
 
+  
+  #### possible success message after git push origin master
+  Enumerating objects: 5, done.
+  
+  Counting objects: 100% (5/5), done.
+  
+  Delta compression using up to 8 threads.
+  
+  Writing objects: 100% (3/3), 321 bytes | 321.00 KiB/s, done
+  
+  Total 3 (delta 1), reused 0 (delta 0)
+  
+  remote: Resolving deltas: 100% (1/1), completed with 1 local object. 
+  
+  To github.com: Username/test-repository.git
+  87e4873939..7agd main -> main
+  
+  
   
   
   
