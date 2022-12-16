@@ -14,3 +14,10 @@
 ##### Copy code from remote (github) to local computer
   $ git clone https://github.com/gajendra-github/test-repository.git
   
+  
+  $ git status
+  $ git diff README.md
+  $ git add README.md
+  
+  
+  
