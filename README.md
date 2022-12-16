@@ -64,6 +64,22 @@
   87e4873939..7agd main -> main
   
   
+  $ git push origin master
+  
+  #### possible error message if local and remote work won't match.
+  
+  ! [rejected]  main -> main (fetch first)
+  
+  error: failed to push some refs to 'https://github.com/username/test-repository.git'
+  
+  hint: updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing
+  
+        to the same ref. You may want to first integrate the remote changes (e.g., 'git pull ...') before pushing again.
+        
+        See the 'Note about fast-forwards' in git push --help' for details.
+        
+        
+  
   
   
   
