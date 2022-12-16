@@ -21,7 +21,9 @@
   
   $ git add README.md      (staged .... ready for commit)
   
-  $ git diff README.md
+  $ git commit -m "updated the readme file" 
+  
+  
   
   
   
