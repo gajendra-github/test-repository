@@ -26,6 +26,7 @@
   $ git log --oneline       (to check 
   
   (HEAD -> main) Updated readme file : local computer is at this commit.
+  
   (origin/main, origin/HEAD) Initial commit : remote (github) is at this commit.
   
   
