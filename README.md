@@ -29,6 +29,17 @@
   
   (origin/main, origin/HEAD) Initial commit : remote (github) is at this commit.
   
+  $ git push origin main    (new repository called main)
+  
+  $ git push origin master  (old repository called master)
+  
+  ##### possible error message after username/password:
+  
+  
+  
+  
+  
+  
   
   
   
