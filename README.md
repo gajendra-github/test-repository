@@ -23,7 +23,7 @@
   
   $ git commit -m "updated the readme file" 
   
-  $ git log --oneline       (to check 
+  $ git log --oneline       (to check the status of local and remote commit)
   
   (HEAD -> main) Updated readme file : local computer is at this commit.
   
