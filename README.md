@@ -92,7 +92,22 @@
         
         
         
-        
+#### git init
+Using master as the name for the initial branch. This branch name is subject to change. To configure the initial branch name to use in all
+of your new repo , which will supress this warning call...
+
+git config --global init.defaultBRanch <name>
+
+Names commonly choosen instead of 'master' are 'main', 'development' . The just created branch can be renamed via this command
+
+$ git branch -m <name>
+
+
+
+
+
+
+
   
   
   
